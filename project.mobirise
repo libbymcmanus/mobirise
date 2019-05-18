@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "McManusPortfolio",
+    "name": "LibbyMcManusPortfolio",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -57,8 +57,10 @@
       }
     ],
     "uniqCompNum": 14,
-    "versionPublish": "4.8.10",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
